@@ -18,3 +18,7 @@ git config --global alias.l "log --oneline"
 ```sh 
 git show <nombre-hash>
 ```
+## creando ramas y cambiando de ramas 
+``` sh 
+git branch <nombre/ramas>
+git checkout <nombre/ramas>
