@@ -14,3 +14,7 @@ git status
 git config --global alias.st "status --short"
 git config --global alias.l "log --oneline"
 ```
+## ver el contenido de cada commit 
+```sh 
+git show <nombre-hash>
+```
