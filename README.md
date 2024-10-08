@@ -22,3 +22,4 @@ git show <nombre-hash>
 ``` sh 
 git branch <nombre/ramas>
 git checkout <nombre/ramas>
+```
