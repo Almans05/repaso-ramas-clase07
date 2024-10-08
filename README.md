@@ -13,3 +13,4 @@ git status
 ```sh
 git config --global alias.st "status --short"
 git config --global alias.l "log --oneline"
+```
